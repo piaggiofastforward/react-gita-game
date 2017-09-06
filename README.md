@@ -1,4 +1,5 @@
 # Piaggio Fast Forward
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/piaggio-fast-forward/piaggio-fast-forward)
 
 ## React Gita Game — react.js web app project template &nbsp; <a href="https://github.com/piaggiofastforward/react-gita-game"><img src="https://img.shields.io/github/stars/piaggiofastforward/react-gita-game.svg?style=social&label=Star&maxAge=3600" height="20"></a> <a href="https://twitter.com/p_f_f"><img src="https://img.shields.io/twitter/follow/p_f_f.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
 
